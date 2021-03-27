@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ['P','E','E','U','S',  'D']
+- 👋 Hi, I’m **['P','E','E','U','S',  'D']**
 - 👀 I’m interested in developing web based apps
 - 🌱 I’m currently learning **PYTHON**
 
