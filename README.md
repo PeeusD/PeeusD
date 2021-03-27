@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeeusD
 - 👀 I’m interested in developing web based apps
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning **python**
 
 
 <!---
