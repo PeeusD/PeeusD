@@ -39,7 +39,7 @@ who_i_am = ['Backend Developer','Coder','Engineer','NITian','Noobie']
 
 
 ### Cloud Environment Skills:
-<img align="left" alt="Amazon" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazon.svg" />
+<img align="left" alt="Amazon" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
 <img align="left" alt="Heroku" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/heroku.svg" />
 <img align="left" alt="IBMCloud" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/ibm.svg" />
 <img align="left" alt="DigitalOcean" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/digitalocean.svg" />
