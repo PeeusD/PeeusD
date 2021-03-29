@@ -31,7 +31,11 @@ who_i_am = ['Backend Developer','Coder','Engineer','NITian','Noobie']
 <img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
+</br>
 <hr>
+
+
+
 ### Cloud Environment Skills:
 <img align="left" alt="Amazon" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazon.svg" />
 <img align="left" alt="Heroku" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/heroku.svg" />
@@ -39,8 +43,6 @@ who_i_am = ['Backend Developer','Coder','Engineer','NITian','Noobie']
 <img align="left" alt="DigitalOcean" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/digitalocean.svg" />
 <img align="left" alt="Netlify" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/netlify.svg" />
 <img align="left" alt="PythonAnywhere" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/PythonAnywhere.svg" />
-
-
 </br>
 </br>
 
