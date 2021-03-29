@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **['P','E','E','U','S',' ', 'D']**
+- 👋 Hi,I’m = **['P','E','E','U','S',' ', 'D']**
 - 👀 I’m interested in developing web based apps
 - 🌱 I’m currently learning **PYTHON**
 
@@ -32,7 +32,7 @@ who_i_am = ['Backend Developer','Coder','Engineer','NITian','Noobie']
 <img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
 </br>
-
+</br>
 
 
 
@@ -43,6 +43,7 @@ who_i_am = ['Backend Developer','Coder','Engineer','NITian','Noobie']
 <img align="left" alt="DigitalOcean" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/digitalocean.svg" />
 <img align="left" alt="Netlify" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/netlify.svg" />
 <img align="left" alt="PythonAnywhere" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/PythonAnywhere.svg" />
+img align="left" alt="PythonAnywhere" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg" />
 </br>
 </br>
 
