@@ -45,7 +45,6 @@ who_i_am = ['Backend Developer','Coder','Engineer','NITian','Noobie']
 <img align="left" alt="DigitalOcean" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/digitalocean.svg" />
 <img align="left" alt="Netlify" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/netlify.svg" />
 <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/pythonanywhere.svg" />
 </br>
 </br>
 
