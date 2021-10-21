@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web based apps
 - 🌱 I’m currently learning **PYTHON & Django**
 
-## Namaste 👋
+## Hello! 👋
 
 </br>
 </br>
