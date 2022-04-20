@@ -3,12 +3,7 @@
 - 🌱 I’m currently learning **Python & Django + DjangoRestFramework**
 
 ## Hello! 👋
-
-
-![Github_stats](https://github-readme-stats.vercel.app/api?username=PeeusD&count_private=true&show_icons=true&theme=radical)
-
-
-
+</br>
 
 ### About me 🙋🏻‍♂️
 ```python
@@ -16,8 +11,10 @@
 who_i_am = ['Backend Developer','Coder','Engineer','NITian','Noobie']
 
 ```
-</br>
-</br>
+
+
+![Github_stats](https://github-readme-stats.vercel.app/api?username=PeeusD&count_private=true&show_icons=true&theme=radical)
+
 
 ### Language Skills:
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
