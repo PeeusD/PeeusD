@@ -1,11 +1,12 @@
 - 👋 Hi,
 - 👀 I’m interested in developing web based apps
-- 🌱 I’m currently learning **PYTHON & Django**
+- 🌱 I’m currently learning **Python & Django + DjangoRestFramework**
 
 ## Hello! 👋
 
-</br>
-</br>
+
+![Github_stats](https://github-readme-stats.vercel.app/api?username=PeeusD&count_private=true&show_icons=true&theme=radical)
+
 
 
 
