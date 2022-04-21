@@ -1,7 +1,8 @@
 - 👋 Hi,
 - 👀 I’m interested in developing web based apps
 - 🌱 I’m currently learning **Python & Django + DjangoRestFramework**
-
+</br>
+**Telegram: 15000+ Subscribers**
 ## Hello! 👋
 </br>
 
