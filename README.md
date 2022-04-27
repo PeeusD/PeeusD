@@ -13,7 +13,7 @@
 ### About me 🙋🏻‍♂️
 ```python
 
-who_i_am = ['Backend Developer','Coder','Engineer','NITian','Digital Marketer']
+who_i_am = ['Backend Developer','Engineer','NITian','Digital Marketer']
 
 ```
 
