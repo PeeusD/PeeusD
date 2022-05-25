@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning **Python & Django + DjangoRestFramework**
 </br>
 
-<img align="left" width="40px" src="https://github.com/PeeusD/PeeusD/blob/main/Telegram1.gif" />   **Telegram: 15000+ Followers**
+<img align="left" width="20px" src="https://github.com/PeeusD/PeeusD/blob/main/Telegram1.gif" />   **Telegram: 15000+ Followers**
 </br>
 
 
-## Hello! <img align="left" width="90px" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" />   
+## Hello! <img align="left" width="70px" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" />   
 </br>
 
 
