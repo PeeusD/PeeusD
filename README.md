@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m a **Python Developer** and **Digital Marketer** interested in developing Web based apps.
-- 🌱 I’m currently learning **Python & Django + DjangoRestFramework**
+- 🌱 I’m currently learning **Python & Django + DjangoRestFramework** and doing digital marketing on social media.
 </br>
 
 <img align="left" width="20px" src="https://github.com/PeeusD/PeeusD/blob/main/Telegram1.gif" />   **Telegram: 15000+ Followers**
