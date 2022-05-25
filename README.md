@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Python & Django + DjangoRestFramework**
 </br>
 
-**Telegram: 15000+ Followers**
+<img align="left" width="40px" src="https://github.com/PeeusD/PeeusD/blob/main/Telegram1.gif" />   **Telegram: 15000+ Followers**
 </br>
 
 
