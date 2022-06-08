@@ -1,5 +1,5 @@
 
-## Hello! <img  align="left" width="10px" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" />
+## Hello! <img  align="left" width="100" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" />
 - 👀 I’m a **Python Developer** and **Digital Marketer** interested in developing Web based apps.
 - 🌱 I’m currently learning **Python & Django + DjangoRestFramework** and doing digital marketing on social media.
 </br>
