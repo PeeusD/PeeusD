@@ -1,7 +1,7 @@
 
 ## Hello! <img  align="left" width="100" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" />
 - 👀 I’m a **Python Developer** and **Digital Marketer** interested in developing Web based apps.
-- 🌱 I’m currently learning **Python & Django + DjangoRestFramework** and doing digital marketing on social media.
+- 🌱 I’m currently learning **Python & Django + DjangoRestFramework** 
 </br>
 
 ### About me 🙋🏻‍♂️
@@ -11,7 +11,7 @@ who_i_am = ['Backend Developer','Engineer','NITian','Digital Marketer']
 
 ```
 
- **Telegram: 15000+ Followers**
+
 </br>
 
 ![Github_stats](https://github-readme-stats.vercel.app/api?username=PeeusD&count_private=true&show_icons=true&theme=radical)
