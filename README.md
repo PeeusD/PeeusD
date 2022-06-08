@@ -1,5 +1,5 @@
 
-## Hello! <img align="left" width="70px" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" /> 
+## Hello! <img align="left" width="10px" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" /> 
 - 👀 I’m a **Python Developer** and **Digital Marketer** interested in developing Web based apps.
 - 🌱 I’m currently learning **Python & Django + DjangoRestFramework** and doing digital marketing on social media.
 </br>
@@ -11,7 +11,7 @@ who_i_am = ['Backend Developer','Engineer','NITian','Digital Marketer']
 
 ```
 
-<img align="left" width="20px" src="https://github.com/PeeusD/PeeusD/blob/main/Telegram1.gif" /> **Telegram: 15000+ Followers**
+ **Telegram: 15000+ Followers**
 </br>
 
 ![Github_stats](https://github-readme-stats.vercel.app/api?username=PeeusD&count_private=true&show_icons=true&theme=radical)
