@@ -44,7 +44,8 @@ who_i_am = ['Backend Developer','Engineer','NITian','Digital Marketer']
 <img align="left" alt="DigitalOcean" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/digitalocean.svg" />
 <img align="left" alt="Netlify" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/netlify.svg" />
 <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img height="45px" lenght="45px" src ="https://user-images.githubusercontent.com/72473589/115100600-45fd4a80-9f5b-11eb-96f9-baabdbd70299.png">
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
+<img height="45px" lenght="45px" src ="https://user-images.githubusercontent.com/72473589/115100600-45fd4a80-9f5b-11eb-96f9-baabdbd70299.png "/>
 
 </br>
 </br>
