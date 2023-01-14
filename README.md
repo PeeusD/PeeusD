@@ -1,13 +1,13 @@
 
 ## Hello! <img  align="left" width="100" src="https://github.com/PeeusD/PeeusD/blob/main/tony-star-jumping.gif" />
-- 👀 I’m a **Python Developer** and **Digital Marketer** interested in developing Web based apps.
+- 👀 I’m a **Python Developer** and **Data Analyst** interested in developing Web based apps.
 - 🌱 I’m currently learning **Python & Django + DjangoRestFramework** 
 </br>
 
 ### About me 🙋🏻‍♂️
 ```python
 
-who_i_am = ['Backend Developer','Engineer','NITian','Digital Marketer']
+who_i_am = ['Backend Coder','Engineer','NITian','SEO Analyst']
 
 ```
 
