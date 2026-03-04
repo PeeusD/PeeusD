@@ -7,7 +7,7 @@
 ### About me 🙋🏻‍♂️
 ```python
 
-who_i_am = ['Backend Coder','Engineer','SEO Analyst']
+who_i_am = ['Entrepreneur','Backend Coder','Engineer','SEO Analyst']
 
 ```
 
